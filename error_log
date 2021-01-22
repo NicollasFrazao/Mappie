@@ -1,0 +1,5 @@
+[29-Nov-2018 09:18:25] PHP Fatal error:  Class 'Phar' not found in /opt/cpanel/composer/bin/composer on line 23
+[29-Nov-2018 09:19:28] PHP Fatal error:  Class 'Phar' not found in /opt/cpanel/composer/bin/composer on line 23
+[29-Nov-2018 09:20:14] PHP Fatal error:  Class 'Phar' not found in /opt/cpanel/composer/bin/composer on line 23
+[21-Aug-2019 22:04:28] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home/anyte539/public_html/mappie/artisan on line 33
+[21-Aug-2019 22:04:28] PHP Parse error:  syntax error, unexpected T_STRING in /home/anyte539/public_html/mappie/artisan on line 33
